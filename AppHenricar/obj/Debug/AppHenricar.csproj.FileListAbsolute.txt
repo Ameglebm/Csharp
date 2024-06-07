@@ -1,0 +1,10 @@
+C:\Users\amegl\Documents\C#\AppHenricar\bin\Debug\AppHenricar.exe.config
+C:\Users\amegl\Documents\C#\AppHenricar\bin\Debug\AppHenricar.exe
+C:\Users\amegl\Documents\C#\AppHenricar\bin\Debug\AppHenricar.pdb
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.csproj.AssemblyReference.cache
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.Form1.resources
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.Properties.Resources.resources
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.csproj.GenerateResource.cache
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.csproj.CoreCompileInputs.cache
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.exe
+C:\Users\amegl\Documents\C#\AppHenricar\obj\Debug\AppHenricar.pdb
